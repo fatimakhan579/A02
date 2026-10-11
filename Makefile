@@ -1,6 +1,6 @@
 CC      = gcc
 CFLAGS  = -Wall -Wextra -g
-SRC     = src/ls-v1.0.0.c
+SRC     = src/ls-v1.1.0.c
 TARGET  = bin/ls
 
 all: $(TARGET)
